@@ -20,6 +20,7 @@ multiplayer game together with a team (it was a huge self-directed school projec
   - How to better optimize games (in development) so that they run better (multi-threaded programming, performance coding techniques such as object pooling, the observer pattern)
   - The aesthetic side of game development (how to get better at 3d modelling, make levels look nicer in general, graphical optimizations, knowledge of how shadows/lighting work)
   - C++ and Unreal Engine
+  - Network programming
 - 📫 How to reach me (email): xuan_su_1997@hotmail.sg
 <!---
 doomsheep1/doomsheep1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
